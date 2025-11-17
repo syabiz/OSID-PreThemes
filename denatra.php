@@ -1,1 +1,4 @@
-[{"no":1,"SN":"6C28 - 764C - 8823","kode":"3208092012","desa":"Karangtawang","kec":"Kuningan","kab":"Kuningan","prov":"Jawa Barat","rilis":"2023-05-24 21:30:06"}]
+[
+{"no":1,"SN":"6C28 - 764C - 8823","kode":"3208092012","desa":"Karangtawang","kec":"Kuningan","kab":"Kuningan","prov":"Jawa Barat","rilis":"2023-05-24 21:30:06"},
+{"no":2,"SN":"E52C - 8899 - 923C","kode":"3208082007","desa":"Garawangi","kec":"Garawangi","kab":"Kuningan","prov":"Jawa Barat","rilis":"2023-05-24 21:30:06"}
+]
